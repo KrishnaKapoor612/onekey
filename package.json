@@ -1,0 +1,39 @@
+{
+  "name": "onekey",
+  "version": "0.1.0",
+  "description": "Voice-controlled Windows desktop assistant for developers",
+  "author": "Krishna Kapoor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrishnaKapoor612/onekey.git"
+  },
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test",
+    "dist": "electron-builder --win"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "dev.onekey.app",
+    "productName": "OneKey",
+    "files": [
+      "main.js",
+      "preload.js",
+      "src/**",
+      "ps/**",
+      "renderer/**"
+    ],
+    "asarUnpack": [
+      "ps/**"
+    ],
+    "win": {
+      "target": "nsis"
+    }
+  }
+}
