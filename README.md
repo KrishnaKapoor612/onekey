@@ -5,9 +5,15 @@
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6.svg)]()
 [![Wispr Flow Compatible](https://img.shields.io/badge/Wispr%20Flow-Native%20Trigger-purple.svg)](https://wisprflow.ai/)
 [![Challenge: WeMakeDevs](https://img.shields.io/badge/Challenge-WeMakeDevs%20No%20Hands-orange.svg)]()
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-YouTube-red.svg?logo=youtube)](https://youtu.be/NL0IqvcpCdo)
 
 > **Reclaim your desk. OneKey transforms your voice into universal desktop control, replacing the physical keyboard with instant, deterministic Windows actions.**
 > Built for the **Wispr Flow — No Hands Challenge** by **WeMakeDevs**.
+
+### 📺 Watch the Live Demo
+[![OneKey Demo](https://img.shields.io/badge/▶%20Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NL0IqvcpCdo)  
+> 🔗 **Direct Link:** [https://youtu.be/NL0IqvcpCdo](https://youtu.be/NL0IqvcpCdo)
+
 
 ---
 
